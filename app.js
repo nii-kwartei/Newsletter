@@ -46,7 +46,7 @@
     // Request options
     const options = {
       method: "POST",
-      auth: "niikwaartei:90b885f3a5e8a496a1e6c25e7c122ddd-us2" // Authentication to mailchimp API
+      auth: "{username}:{API_KEY}" // Authentication to mailchimp API
     }
 
     // Make the request
